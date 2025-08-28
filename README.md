@@ -12,8 +12,8 @@
 ## 2. Create & Insert a New Element
 
 ### HTML
-```html
 <div id="container"></div>
+
 JavaScript
 const newPara = document.createElement("p");
 newPara.textContent = "Hello, JS!";
