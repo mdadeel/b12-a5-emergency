@@ -1,8 +1,4 @@
-# JavaScript DOM Concepts – Q&A Guide
 
-A concise reference for key DOM manipulation and event handling techniques in JavaScript.
-
----
 
 ## 1. DOM Selectors
 
